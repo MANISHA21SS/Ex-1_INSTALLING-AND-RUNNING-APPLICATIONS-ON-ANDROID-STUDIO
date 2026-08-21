@@ -102,7 +102,7 @@ To test Android applications, create a virtual Android device.
 If the AVD is created successfully, the environment is ready for Android application development.
 
 ## Result
-Android Studio was installed successfully and the Android Virtual Device was configured for running Android applications.
+Android Studio was installed successfully and the Android Virtual Device was configured for running Android application
 
-Conclusion
+## Conclusion
 The Android development environment was successfully set up using Android Studio, SDK, and AVD tools.
